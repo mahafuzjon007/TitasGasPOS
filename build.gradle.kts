@@ -52,3 +52,4 @@ dependencies {
     implementation("androidx.startup:startup-runtime:1.1.1")
     implementation("androidx.profileinstaller:profileinstaller:1.3.1")
 }
+// Triggering GitHub Actions
